@@ -8,6 +8,8 @@ This repository implements a simple Retrieval-Augmented Generation (RAG) system 
 * **Streamlit**: to wrap the RAG agent in a web UI
 
 ---
+![image](https://github.com/user-attachments/assets/49ddada6-ae1e-4dda-b44c-d6cbaea65f50)
+---
 
 ### 📂 Repository Structure
 
